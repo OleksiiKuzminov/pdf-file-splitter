@@ -1,0 +1,6 @@
+{
+  "name": "PDF Page Splitter",
+  "description": "An application to upload a PDF, select specific pages, and download a new PDF containing only the selected pages. Features drag-and-drop, page previews, and an intuitive interface for splitting documents.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
