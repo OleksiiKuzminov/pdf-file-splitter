@@ -2,6 +2,8 @@
 
 This is a web-based utility for splitting PDF files. It allows users to upload a PDF, select the pages they want to keep, and download a new PDF containing only the selected pages. The entire application runs in the browser, and no files are uploaded to a server.
 
+[Link to the pages](https://oleksiikuzminov.github.io/pdf-file-splitter/)
+
 ## Features
 
 - **Upload PDF**: Upload a PDF file from your computer via a file browser or by dragging and dropping it onto the application.
